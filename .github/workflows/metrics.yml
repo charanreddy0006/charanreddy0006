@@ -18,22 +18,13 @@ jobs:
           config_timezone: Asia/Kolkata
           config_theme: dark
           
-          # 1. Deep Language Scan (Progress Bars)
+          # 1. Deep Language Scan (Checks ALL repositories, not just recent)
           plugin_languages: yes
           plugin_languages_details: percentage
           plugin_languages_limit: 8
           plugin_languages_indepth: yes
+          plugin_languages_recent_categories: markup, programming
           
-          # 2. 3D Contribution Graph
+          # 2. 3D Contribution Graph + Integrated Streak Stats
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          
-          # 3. 2D Standard Commit Calendar (Graph)
-          plugin_calendar: yes
-          plugin_calendar_limit: 1
-          
-          # 4. Coding Habits & Visual Streak Chart
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_days: 30
