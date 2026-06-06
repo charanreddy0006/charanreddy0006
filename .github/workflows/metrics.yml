@@ -16,8 +16,24 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          config_theme: dark
+          
+          # 1. Deep Language Scan (Progress Bars)
           plugin_languages: yes
           plugin_languages_details: percentage
-          config_theme: dark
+          plugin_languages_limit: 8
+          plugin_languages_indepth: yes
+          
+          # 2. 3D Contribution Graph
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          
+          # 3. 2D Standard Commit Calendar (Graph)
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
+          
+          # 4. Coding Habits & Visual Streak Chart
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_days: 30
