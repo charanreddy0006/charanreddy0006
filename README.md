@@ -30,7 +30,7 @@ I like when data has a story. I want to learn how to find it.
 
 🟢 &nbsp; 5th semester CSE student — AI & ML specialisation  
 🟡 &nbsp; Exploring ML projects in the automotive space  
-🔵 &nbsp; Learning data engineering — pipelines, warehousing, real-world data, Big Data, Data Tools  
+🔵 &nbsp; Learning data engineering — pipelines, warehousing, real-world data, Big Data, Data Tools , SQL  
 
 ---
 
