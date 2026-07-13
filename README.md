@@ -9,7 +9,7 @@
 
 ---
 
-I'm in my second year of CSE, deep in an AI & ML specialisation,
+I'm in my third year of CSE, deep in an AI & ML specialisation,
 and slowly figuring out what I actually want to do with it.
 The answer keeps pointing toward **data** — and specifically, data in the automotive world.
 Not because it sounds impressive, but because the question
