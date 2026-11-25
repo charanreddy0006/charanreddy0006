@@ -1,62 +1,83 @@
-<h1 align="center">Mukka Charan Kumar Reddy</h1>
+ <div align="center">
 
-```sql
-SELECT answer
-FROM   cars
-JOIN   data USING (question)
-WHERE  question = 'why does this cost what it costs?';
-```
+# Mukka Charan Kumar Reddy
 
-I started out curious about cars, then about data, and then noticed it was the same question. I'm a third-year CSE (AI & ML) student in Rajkot, and I like it when data has a story worth finding.
+*Curious by nature. Engineering by choice.*
 
-```text
-$ git log --oneline -3
+Computer Science Undergraduate · AI & ML
 
-c3  looking   internships and entry-level roles
-b2  studying  B.Tech CSE (AI & ML), Marwadi University
-a1  learning  how data moves, gets cleaned, and becomes useful
-```
+[LinkedIn](https://www.linkedin.com/in/mukka-charan-kumar-reddy-92b52931a/) &nbsp;·&nbsp; [GitHub](https://github.com/charanreddy0006) &nbsp;·&nbsp; [LeetCode](https://leetcode.com/)
+
+</div>
 
 ---
 
-<table align="center">
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charanreddy0006&theme=github_dark&v=1" alt="Profile details" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://streak-stats.demolab.com?user=charanreddy0006&theme=github-dark-blue&hide_border=true&border_radius=12&v=1" alt="Contribution streak" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=charanreddy0006&theme=github_dark&v=1" height="170" alt="Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=charanreddy0006&theme=github_dark&utcOffset=5.5&v=1" height="170" alt="Productive time" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=charanreddy0006&theme=github_dark&v=1" height="170" alt="Repositories per language" />
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=charanreddy0006&theme=github_dark&v=1" height="170" alt="Most committed language" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=charanreddy0006&theme=github-dark&hide_border=true&v=1" alt="Contribution graph" />
-    </td>
-  </tr>
-</table>
+### A little about me
+
+I started with curiosity about cars, discovered an interest in data, and gradually found myself exploring the engineering behind both.
+
+I enjoy understanding how things work, experimenting with ideas, solving problems, and learning by building.
+
+Currently pursuing my B.Tech in Computer Science & Engineering (AI & ML), with a growing interest in the intersection of **data, technology, and the automotive world.**
+
+I don't want to stop at knowing how something works. I want to understand why it works.
 
 ---
 
-<p align="center">
-  <a href="mailto:charanreddym2007@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/mukka-charan-kumar-reddy-92b52931a/">LinkedIn</a> ·
-  <a href="https://leetcode.com/u/charankumarreddy6/">LeetCode</a>
-</p>
+<div align="center">
+
+## THE GITHUB JOURNEY
+
+*A snapshot of my activity, consistency and progress.*
+
+<br/>
+
+### Overall Overview
+
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charanreddy0006&theme=github_dark" alt="Profile Overview" />
+
+<br/>
+
+### Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=charanreddy0006&theme=github-dark-blue&hide_border=true&border_radius=8" alt="Contribution Streak" />
+
+<br/>
+
+### Activity & Statistics
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=charanreddy0006&theme=github_dark" alt="GitHub Statistics" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=charanreddy0006&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
+
+<br/>
+
+### Language Distribution
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=charanreddy0006&theme=github_dark" alt="Languages by Repository" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=charanreddy0006&theme=github_dark" alt="Most Used Commit Languages" />
+
+<br/>
+
+### Contribution Activity
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=charanreddy0006&theme=github-dark&hide_border=true&radius=8" alt="Contribution Activity Graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Beyond the numbers
+
+*Every repository represents an experiment.*
+*Every contribution represents something learned.*
+*Every commit is another step forward.*
+
+<br/>
+
+**Always learning. Always building.**
+
+🇮🇳 &nbsp; India &nbsp; · &nbsp; charanreddym2007@gmail.com
+
+</div>
